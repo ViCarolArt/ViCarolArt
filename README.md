@@ -93,7 +93,7 @@
 ## ⚡ Pikachu Zone
 
 <p align="center">
-  <img width="200" src="https://slippery-amaranth-pbhozdxk3o.edgeone.app/WhatsApp%20Image%202026-05-05%20at%2011.09.55.jpeg"/>
+  <img src="https://viagemeturismo.abril.com.br/wp-content/uploads/2025/09/festival-meio-outono-lua-china.jpg?crop=1&resize=1212,909"/>
 </p>
 
 <p align="center">
