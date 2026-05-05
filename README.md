@@ -93,7 +93,7 @@
 ## ⚡ Pikachu Zone
 
 <p align="center">
-  <img src="https://slippery-amaranth-pbhozdxk3o.edgeone.app/WhatsApp%20Image%202026-05-05%20at%2011.09.55.jpeg"/>
+  <img width="200" src="https://slippery-amaranth-pbhozdxk3o.edgeone.app/WhatsApp%20Image%202026-05-05%20at%2011.09.55.jpeg"/>
 </p>
 
 <p align="center">
