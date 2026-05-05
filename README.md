@@ -25,7 +25,7 @@
 
 ## ⚡ 关于我 · Sobre mim
 
-<img align="right" width="150" src=""/>
+<img align="right" width="150" src="https://puny-red-v81wtqbgli.edgeone.app/pikachu%20milkshake.jpeg"/>
 
 - 💻 Estudante de **Desenvolvimento de Software Multiplataforma (DSM)**  
 - 🎨 Focada em **interfaces modernas e experiência do usuário**  
@@ -93,7 +93,7 @@
 ## ⚡ Pikachu Zone
 
 <p align="center">
-  <img src="file:///C:/Users/flame/OneDrive/Imagens/PLANOS%20DE%20FUNDO/pikachu%20milkshake.jpeg" width="220"/>
+  <img src="https://slippery-amaranth-pbhozdxk3o.edgeone.app/WhatsApp%20Image%202026-05-05%20at%2011.09.55.jpeg"/>
 </p>
 
 <p align="center">
