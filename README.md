@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  ⚡ 维托里亚 · <span style="color:#D4A373;">ViCarolArt</span> ⚡
+  ⚡ 维托里亚 · <span style="color:#D4A373;">Vitória Caroline</span> ⚡
 </h1>
 
 <p align="center">
