@@ -93,7 +93,7 @@
 ## ⚡ Pikachu Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/gcqY0P5mFZ0n6/giphy.gif" width="120"/>
+  <img src="https://raw.githubusercontent.com/SEUUSERNAME/SEUUSERNAME/main/pikachu.png" width="220"/>
 </p>
 
 <p align="center">
