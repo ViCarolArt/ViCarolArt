@@ -25,7 +25,7 @@
 
 ## ⚡ 关于我 · Sobre mim
 
-<img align="right" width="150" src="https://media.giphy.com/media/WXB88TeARFVvi/giphy.gif"/>
+<img align="right" width="150" src="https://raw.githubusercontent.com/ViCarolArt/ViCarolArt/main/pikachu.png"/>
 
 - 💻 Estudante de **Desenvolvimento de Software Multiplataforma (DSM)**  
 - 🎨 Focada em **interfaces modernas e experiência do usuário**  
@@ -93,7 +93,7 @@
 ## ⚡ Pikachu Zone
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEUUSERNAME/SEUUSERNAME/main/pikachu.png" width="220"/>
+  <img src="https://raw.githubusercontent.com/ViCarolArt/ViCarolArt/main/pikachu.png" width="220"/>
 </p>
 
 <p align="center">
