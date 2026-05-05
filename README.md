@@ -51,12 +51,12 @@
 
 ## 📊 统计 · Estatísticas
 
-<p align="center">
+<!--<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViCarolArt&show_icons=true&bg_color=0b0f14&title_color=D4A373&icon_color=EA580C&text_color=F5E6C8&border_color=7F1D1D" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViCarolArt&layout=compact&bg_color=0b0f14&title_color=D4A373&text_color=F5E6C8&border_color=7F1D1D" />
 </p>
 
----
+--->
 
 ## 📈 活动 · Contribuições
 
