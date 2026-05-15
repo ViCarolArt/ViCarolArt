@@ -1,7 +1,8 @@
-<!-- HEADER CYBER CHINA -->
+<!-- HEADER CYBER CHINA FIXADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=200&section=header&text=Neo%20Oriental%20Code&fontSize=40&fontColor=ff4ecd&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d0d0d,50:ff0080,100:ff4ecd&text=✧%20Vitória%20Caroline%20✧&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20Developer%20•%20Tech%20Explorer&descAlignY=55&descSize=18" width="1000/>
 </p>
+
 
 <h1 align="center">
   🌸 Vitória Caroline 🌸
