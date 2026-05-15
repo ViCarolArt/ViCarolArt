@@ -1,72 +1,33 @@
-<!-- 🍁 HEADER OUTONO CHINÊS -->
+<!-- HEADER CYBER CHINA -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F1D1D&height=200&section=header&text=秋%20Code%20Universe&fontSize=40&fontColor=F5E6C8"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=200&section=header&text=Neo%20Oriental%20Code&fontSize=40&fontColor=ff4ecd&animation=fadeIn"/>
 </p>
 
 <h1 align="center">
-  ⚡ 维托里亚 · <span style="color:#D4A373;">Vitória Caroline</span> ⚡
+  🌸 Vitória Caroline 🌸
 </h1>
 
 <p align="center">
-  <em>ela/dela · dev front-end & tech explorer</em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-EA580C?style=flat-square&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-HTML-7F1D1D?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS-D4A373?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-2A0F14?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-SQL-5C3B1F?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-0b0f14?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Linux-3F2A1D?style=flat-square&logo=linux&logoColor=white">
+  <em>ela/dela · Front-end Developer · Tech Explorer</em>
 </p>
 
 ---
 
-## ⚡ 关于我 · Sobre mim
+## 🐉 Sobre mim
 
-<img align="right" width="150" src="https://puny-red-v81wtqbgli.edgeone.app/pikachu%20milkshake.jpeg"/>
+<img align="right" width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3l3dTR5N2R4d2ZlbXh5d2Y1c3Z6b3Bnd3h5dXZqZ2V6d3Y4ZzV2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
 
-- 💻 Estudante de **Desenvolvimento de Software Multiplataforma (DSM)**  
-- 🎨 Focada em **interfaces modernas e experiência do usuário**  
-- ⚙️ Conhecimento em **front-end + base backend + ambiente Linux**  
-- 🐳 Explorando **Docker e desenvolvimento mais profissional**  
-- 🚀 Evoluindo constantemente como dev  
+- 💻 Estudante de DSM  
+- 🎨 Apaixonada por UI moderna + estética visual  
+- ⚡ Criando projetos com identidade forte  
+- 🐳 Explorando Docker e ambiente Linux  
+- 🚀 Evoluindo todos os dias  
 
 📍 Indaiatuba/SP  
-📧 carolineestudando@gmail.com  
 
 ---
 
-## 🍂 项目 · Projetos
-
-| Projeto | Descrição | Tecnologias |
-|--------|----------|-------------|
-| [🎨 portfolio](https://github.com/ViCarolArt/portfolio) | Meu portfólio pessoal | HTML, CSS, JS |
-| [🐉 pokemon_bootstrap](https://github.com/ViCarolArt/pokemon_bootstrap) | Site temático Pokémon | Bootstrap |
-| [☕ jquery.cafeteria](https://github.com/ViCarolArt/jquery.cafeteria) | Cardápio interativo | jQuery |
-| [🍁 cafeteria](https://github.com/ViCarolArt/cafeteria) | Site de cafeteria | HTML, CSS |
-
----
-
-<!--## 📊 统计 · Estatísticas>
-
-<!--<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViCarolArt&show_icons=true&bg_color=0b0f14&title_color=D4A373&icon_color=EA580C&text_color=F5E6C8&border_color=7F1D1D" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViCarolArt&layout=compact&bg_color=0b0f14&title_color=D4A373&text_color=F5E6C8&border_color=7F1D1D" />
-</p>
-
---->
-
-## 📈 活动 · Contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViCarolArt&bg_color=0b0f14&color=EA580C&line=D4A373&point=F5E6C8&area=true&hide_border=true"/>
-</p>
-
----
-
-## 🧠 技术 · Tecnologias
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,docker,linux,git,github" />
@@ -74,28 +35,41 @@
 
 ---
 
-## 🏮 连系 · Contato
+## 🌸 Projetos
+
+| Projeto | Descrição |
+|--------|----------|
+| 🎨 Portfolio | Meu portfólio pessoal |
+| 🐉 Pokémon Site | Projeto com Bootstrap |
+| ☕ Cafeteria jQuery | Cardápio interativo |
+| 🍁 Cafeteria | Landing page |
+
+---
+
+## 📈 Contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViCarolArt&bg_color=0d0d0d&color=ff4ecd&line=ff0080&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 🏮 Contato
 
 <p align="center">
   <a href="mailto:carolineestudando@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-7F1D1D?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-ff0080?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/vitoria-caroline-20532b269">
-    <img src="https://img.shields.io/badge/LinkedIn-D4A373?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-ff4ecd?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/ViCarolArt">
-    <img src="https://img.shields.io/badge/GitHub-2A0F14?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ⚡ Pikachu Zone
-
 <p align="center">
-  <img src="https://viagemeturismo.abril.com.br/wp-content/uploads/2025/09/festival-meio-outono-lua-china.jpg?crop=1&resize=1212,909"/>
-</p>
-
-<p align="center">
-  <i>“秋叶落下，新代码升起”</i> 🍁  
+  🌸 “Code like a dragon, design like a dream.” 🌸
 </p>
